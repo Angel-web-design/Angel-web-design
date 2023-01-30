@@ -1,7 +1,12 @@
 <h1 align="center">
-  <b>🖥 Welcome to my github profile 💻</b>
+  <b> Welcome to my github profile </b>
 </h1>
 
+**¡Hi! I'm Miguel Angel Ortiz Loaiza, i'm an student and a musician, passionate by the technology and the software development.**
+
+<br>
+
+**Actually i'm learning JavaScript and Electron, for the creation of desktop applications from the web**
 
 <!--
 **Angel-web-design/Angel-web-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
