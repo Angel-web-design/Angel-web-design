@@ -6,7 +6,23 @@
 
 <br>
 
-**Actually i'm learning JavaScript and Electron, for the creation of desktop applications from the web**
+**Actually i'm learning some languages, for the creation of web and desktop applications, desktop eviroments with different purposes and some useful tools too.**
+
+<br>
+
+**These are some technologies, that i'm currently learning to use:**
+
+- **Markdown**
+- **Json**
+- **Html**
+- **Css**
+- **JavaScript**
+- **Electron**
+- **React**
+- **Python**
+- **Django**
+- **Node.js**
+- **Rust**
 
 <!--
 **Angel-web-design/Angel-web-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
