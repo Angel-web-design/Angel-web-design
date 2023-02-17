@@ -22,7 +22,8 @@
 - **JQuery**
 - **Python**
 - **Django**
-- **Node.js**
+- **Node.Js**
+- **Next.Js**
 - **Rust**
 
 <!--
