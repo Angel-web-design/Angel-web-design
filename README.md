@@ -19,6 +19,7 @@
 - **JavaScript**
 - **Electron**
 - **React**
+- **JQuery**
 - **Python**
 - **Django**
 - **Node.js**
