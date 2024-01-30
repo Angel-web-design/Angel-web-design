@@ -6,11 +6,11 @@
 
 <br>
 
-**Actually i'm learning some languages, for the creation of web and desktop applications, desktop eviroments with different purposes and some useful tools too.**
+**Currently i'm learning some languages, with they purpose of building and designing different applications, desktop eviroments with different purposes and some useful tools too.**
 
 <br>
 
-**These are some technologies, that i'm currently learning to use:**
+**These are some technologies, that i'm currently learning how to use:**
 
 - **Markdown**
 - **Json**
